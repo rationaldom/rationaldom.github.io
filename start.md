@@ -8,6 +8,17 @@
 
 * [My Submission -- milkwebs](https://www.youtube.com/watch?v=o59674jZ1kk)
 
+## Galleries from around the webs
+
+The following galleries are from [www.fortheloveofasub.com](https://www.fortheloveofasub.com)
+
+*  [Gallery no. 1](https://www.fortheloveofasub.com/new-gallery)
+*  [Gallery no. 2](https://www.fortheloveofasub.com/black-and-white-photo-gallery-2)
+*  [Gallery no. 3](https://www.fortheloveofasub.com/black-and-white-photo-gallery-3)
+*  [Gallery no. 4](https://www.fortheloveofasub.com/black-and-white-photo-gallery-4)
+*  [Gallery no. 5](https://www.fortheloveofasub.com/black-and-white-photo-gallery-5)
+
+
 ## Are you a pervert? The Psychology of BDSM
 
 Most definitely you are a pervert! But essentially, *everyone* is pervert. It is said that a pervert is *anybody* kinkier than you [Wiseman1996].
