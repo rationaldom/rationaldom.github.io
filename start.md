@@ -18,12 +18,6 @@ The surprising fact is that BDSM practitioners are a surprisingly health crowd. 
 
 * [The Most Common Sexual Fetishes](https://www.allure.com/story/common-sexual-fetishes-kinks)
 
-
-## So you want to be a sub?
-
-
-## Videos
-
 * [The Story of My Submission -- Evie Lupine](https://www.youtube.com/watch?v=v32tO692hcQ)
 
 * [My Submission -- milkwebs](https://www.youtube.com/watch?v=o59674jZ1kk)
