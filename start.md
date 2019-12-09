@@ -1,11 +1,10 @@
 # Starters
 
-## Introduction
-
-
 ## Psychology of BDSM: Are you a pervert?
 
-YES! Most definitely. But the good news is that, in a sense, everyone is pervert. It is said that a pervert is *anybody* kinkier than you [Wiseman1996]. The surprising fact is that BDSM practitioners are a surprisingly health crowd. Here is selection of readings from the Psychology Today.
+YES! Most definitely you are a pervert! But the good news is that, in a sense, everyone is pervert. It is said that a pervert is *anybody* kinkier than you [Wiseman1996].
+
+The surprising fact is that BDSM practitioners are a surprisingly health crowd. Here is selection of readings from the Psychology Today.
 
 * [What Kind of People Enjoy BDSM](https://www.psychologytoday.com/us/blog/all-about-sex/201908/what-kind-people-enjoy-bdsm)
 
@@ -14,7 +13,6 @@ YES! Most definitely. But the good news is that, in a sense, everyone is pervert
 * [Personality Traits of BDSM Practitioners: Another Look](https://www.psychologytoday.com/us/blog/unique-everybody-else/201502/personality-traits-bdsm-practitioners-another-look)
 
 * [The Surprising Psychology of BDSM](https://www.psychologytoday.com/us/blog/the-wide-wide-world-psychology/201502/the-surprising-psychology-bdsm)
-
 
 ## What exactly are we talking about here?
 
