@@ -1,6 +1,6 @@
 # Starters
 
-## Psychology of BDSM: Are you a pervert?
+## Are you a pervert? The Psychology of BDSM
 
 YES! Most definitely you are a pervert! But essentially, *everyone* is pervert. It is said that a pervert is *anybody* kinkier than you [Wiseman1996].
 
