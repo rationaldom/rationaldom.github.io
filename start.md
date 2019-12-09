@@ -15,7 +15,6 @@ YES! Most definitely. But the good news is that, in a sense, everyone is pervert
 
 * [The Surprising Psychology of BDSM](https://www.psychologytoday.com/us/blog/the-wide-wide-world-psychology/201502/the-surprising-psychology-bdsm)
 
-[Wiseman1996] *SM 101: A Realistic Introduction*, Jay Wiseman, 1996, p. 23
 
 ## What exactly are we talking about here?
 
@@ -26,6 +25,11 @@ YES! Most definitely. But the good news is that, in a sense, everyone is pervert
 
 
 ## Videos
+
+* [The Story of My Submission -- Evie Lupine](https://www.youtube.com/watch?v=v32tO692hcQ)
+
+* [My Submission -- milkwebs](https://www.youtube.com/watch?v=o59674jZ1kk)
+
 
 ## References
 
