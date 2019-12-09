@@ -1,5 +1,13 @@
 # Starters
 
+## What exactly are we talking about here?
+
+* [The Most Common Sexual Fetishes](https://www.allure.com/story/common-sexual-fetishes-kinks)
+
+* [The Story of My Submission -- Evie Lupine](https://www.youtube.com/watch?v=v32tO692hcQ)
+
+* [My Submission -- milkwebs](https://www.youtube.com/watch?v=o59674jZ1kk)
+
 ## Are you a pervert? The Psychology of BDSM
 
 Most definitely you are a pervert! But essentially, *everyone* is pervert. It is said that a pervert is *anybody* kinkier than you [Wiseman1996].
@@ -13,15 +21,6 @@ The surprising fact is that BDSM practitioners are a surprisingly health crowd. 
 * [Personality Traits of BDSM Practitioners: Another Look](https://www.psychologytoday.com/us/blog/unique-everybody-else/201502/personality-traits-bdsm-practitioners-another-look)
 
 * [The Surprising Psychology of BDSM](https://www.psychologytoday.com/us/blog/the-wide-wide-world-psychology/201502/the-surprising-psychology-bdsm)
-
-## What exactly are we talking about here?
-
-* [The Most Common Sexual Fetishes](https://www.allure.com/story/common-sexual-fetishes-kinks)
-
-* [The Story of My Submission -- Evie Lupine](https://www.youtube.com/watch?v=v32tO692hcQ)
-
-* [My Submission -- milkwebs](https://www.youtube.com/watch?v=o59674jZ1kk)
-
 
 ## References
 
