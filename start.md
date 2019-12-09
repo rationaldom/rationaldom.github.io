@@ -19,7 +19,7 @@ YES! Most definitely. But the good news is that, in a sense, everyone is pervert
 
 ## What exactly are we talking about here?
 
-[The Most Common Sexual Fetishes](https://www.allure.com/story/common-sexual-fetishes-kinks)
+* [The Most Common Sexual Fetishes](https://www.allure.com/story/common-sexual-fetishes-kinks)
 
 
 ## So you want to be a sub?
