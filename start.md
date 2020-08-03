@@ -8,22 +8,14 @@
 
 * [My Submission -- milkwebs](https://www.youtube.com/watch?v=o59674jZ1kk)
 
-## Galleries from around the webs
 
-The following galleries are from [www.fortheloveofasub.com](https://www.fortheloveofasub.com)
+## The Surprising Psychology of BDSM
 
-*  [Gallery no. 1](https://www.fortheloveofasub.com/new-gallery)
-*  [Gallery no. 2](https://www.fortheloveofasub.com/black-and-white-photo-gallery-2)
-*  [Gallery no. 3](https://www.fortheloveofasub.com/black-and-white-photo-gallery-3)
-*  [Gallery no. 4](https://www.fortheloveofasub.com/black-and-white-photo-gallery-4)
-*  [Gallery no. 5](https://www.fortheloveofasub.com/black-and-white-photo-gallery-5)
+It is said that a pervert is *anybody* kinkier than you [Wiseman1996].
 
+Research shows that BDSM practitioners are a surprisingly healthy crowd. Here is selection of readings from [Psychology Today](https://www.psychologytoday.com). You can follow citations in the articles to the primary papers, but these articles provide a decent overview.
 
-## Are you a pervert? The Psychology of BDSM
-
-Most definitely you are a pervert! But essentially, *everyone* is pervert. It is said that a pervert is *anybody* kinkier than you [Wiseman1996].
-
-The surprising fact is that BDSM practitioners are a surprisingly health crowd. Here is selection of readings from [Psychology Today](https://www.psychologytoday.com).
+* [The Surprising Psychology of BDSM](https://www.psychologytoday.com/us/blog/the-wide-wide-world-psychology/201502/the-surprising-psychology-bdsm)
 
 * [What Kind of People Enjoy BDSM](https://www.psychologytoday.com/us/blog/all-about-sex/201908/what-kind-people-enjoy-bdsm)
 
@@ -31,7 +23,21 @@ The surprising fact is that BDSM practitioners are a surprisingly health crowd. 
 
 * [Personality Traits of BDSM Practitioners: Another Look](https://www.psychologytoday.com/us/blog/unique-everybody-else/201502/personality-traits-bdsm-practitioners-another-look)
 
-* [The Surprising Psychology of BDSM](https://www.psychologytoday.com/us/blog/the-wide-wide-world-psychology/201502/the-surprising-psychology-bdsm)
+## Photography
+
+The following galleries are from [www.fortheloveofasub.com](https://www.fortheloveofasub.com). It's a great web site.
+
+*  [Gallery no. 1](https://www.fortheloveofasub.com/new-gallery)
+*  [Gallery no. 2](https://www.fortheloveofasub.com/black-and-white-photo-gallery-2)
+*  [Gallery no. 3](https://www.fortheloveofasub.com/black-and-white-photo-gallery-3)
+*  [Gallery no. 4](https://www.fortheloveofasub.com/black-and-white-photo-gallery-4)
+*  [Gallery no. 5](https://www.fortheloveofasub.com/black-and-white-photo-gallery-5)
+*  [Gallery no. 6](https://www.fortheloveofasub.com/black-and-white-photo-gallery-6)
+*  [Gallery no. 7](https://www.fortheloveofasub.com/black-and-white-photo-gallery-7)
+*  [Gallery no. 8](https://www.fortheloveofasub.com/black-and-white-photo-gallery-8)
+*  [Gallery no. 9](https://www.fortheloveofasub.com/black-and-white-photo-gallery-9)
+
+
 
 ## References
 
