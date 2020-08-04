@@ -4,10 +4,6 @@
 
 * [The Most Common Sexual Fetishes](https://www.allure.com/story/common-sexual-fetishes-kinks)
 
-* [The Story of My Submission -- Evie Lupine](https://www.youtube.com/watch?v=v32tO692hcQ)
-
-* [My Submission -- milkwebs](https://www.youtube.com/watch?v=o59674jZ1kk)
-
 
 ## The Surprising Psychology of BDSM
 
@@ -29,13 +25,13 @@ The following galleries are from [www.fortheloveofasub.com](https://www.forthelo
 
 *  [Gallery no. 1](https://www.fortheloveofasub.com/new-gallery)
 *  [Gallery no. 2](https://www.fortheloveofasub.com/black-and-white-photo-gallery-2)
-*  [Gallery no. 3](https://www.fortheloveofasub.com/black-and-white-photo-gallery-3)
-*  [Gallery no. 4](https://www.fortheloveofasub.com/black-and-white-photo-gallery-4)
-*  [Gallery no. 5](https://www.fortheloveofasub.com/black-and-white-photo-gallery-5)
-*  [Gallery no. 6](https://www.fortheloveofasub.com/black-and-white-photo-gallery-6)
-*  [Gallery no. 7](https://www.fortheloveofasub.com/black-and-white-photo-gallery-7)
-*  [Gallery no. 8](https://www.fortheloveofasub.com/black-and-white-photo-gallery-8)
-*  [Gallery no. 9](https://www.fortheloveofasub.com/black-and-white-photo-gallery-9)
+*  [Gallery no. 3](https://www.fortheloveofasub.com/photo-gallery-3)
+*  [Gallery no. 4](https://www.fortheloveofasub.com/photo-gallery-4)
+*  [Gallery no. 5](https://www.fortheloveofasub.com/photo-gallery-5)
+*  [Gallery no. 6](https://www.fortheloveofasub.com/photo-gallery-6)
+*  [Gallery no. 7](https://www.fortheloveofasub.com/photo-gallery-7)
+*  [Gallery no. 8](https://www.fortheloveofasub.com/photo-gallery-8)
+*  [Gallery no. 9](https://www.fortheloveofasub.com/photo-gallery-9)
 
 
 
