@@ -7,7 +7,7 @@
 
 ## The Psychology of BDSM
 
-Nothing wrong with you if you like BDSM. Research shows that BDSM practitioners are a surprisingly healthy crowd. Here is selection of readings from [Psychology Today](https://www.psychologytoday.com). You can follow citations in the articles to the primary papers, but these articles provide a decent overview of the results.
+Nothing wrong with you if you like BDSM. Research shows that BDSM practitioners are a surprisingly healthy crowd. Here is selection of readings from [Psychology Today](https://www.psychologytoday.com). You can follow citations in the articles to the primary papers, but these articles provide decent overviews for the layman.
 
 * [The Surprising Psychology of BDSM](https://www.psychologytoday.com/us/blog/the-wide-wide-world-psychology/201502/the-surprising-psychology-bdsm)
 
@@ -21,17 +21,17 @@ Read the articles and then consider the question of who's a pervert and who's no
 
 ## Photography
 
-Here is some stylish photography from [www.fortheloveofasub.com](https://www.fortheloveofasub.com). If you the subject matter is arousing or delights you, then perhaps this is something you might enjoy.
+Here is some stylish photography from [www.fortheloveofasub.com](https://www.fortheloveofasub.com). If you find the subject matter arousing or delightful, then perhaps BDSM is something you might enjoy.
 
 *  [Gallery no. 1](https://www.fortheloveofasub.com/new-gallery)
 *  [Gallery no. 2](https://www.fortheloveofasub.com/black-and-white-photo-gallery-2)
-*  [Gallery no. 3](https://www.fortheloveofasub.com/photo-gallery-3)
-*  [Gallery no. 4](https://www.fortheloveofasub.com/photo-gallery-4)
-*  [Gallery no. 5](https://www.fortheloveofasub.com/photo-gallery-5)
-*  [Gallery no. 6](https://www.fortheloveofasub.com/photo-gallery-6)
-*  [Gallery no. 7](https://www.fortheloveofasub.com/photo-gallery-7)
-*  [Gallery no. 8](https://www.fortheloveofasub.com/photo-gallery-8)
-*  [Gallery no. 9](https://www.fortheloveofasub.com/photo-gallery-9)
+*  [Gallery no. 3](https://www.fortheloveofasub.com/photo-gallery-03)
+*  [Gallery no. 4](https://www.fortheloveofasub.com/photo-gallery-04)
+*  [Gallery no. 5](https://www.fortheloveofasub.com/photo-gallery-05)
+*  [Gallery no. 6](https://www.fortheloveofasub.com/photo-gallery-06)
+*  [Gallery no. 7](https://www.fortheloveofasub.com/photo-gallery-07)
+*  [Gallery no. 8](https://www.fortheloveofasub.com/photo-gallery-08)
+*  [Gallery no. 9](https://www.fortheloveofasub.com/photo-gallery-09)
 
 
 
