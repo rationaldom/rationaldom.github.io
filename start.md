@@ -5,11 +5,9 @@
 * [The Most Common Sexual Fetishes](https://www.allure.com/story/common-sexual-fetishes-kinks)
 
 
-## The Surprising Psychology of BDSM
+## The Psychology of BDSM
 
-It is said that a pervert is *anybody* kinkier than you [Wiseman1996].
-
-Research shows that BDSM practitioners are a surprisingly healthy crowd. Here is selection of readings from [Psychology Today](https://www.psychologytoday.com). You can follow citations in the articles to the primary papers, but these articles provide a decent overview.
+Nothing wrong with you if you like BDSM. Research shows that BDSM practitioners are a surprisingly healthy crowd. Here is selection of readings from [Psychology Today](https://www.psychologytoday.com). You can follow citations in the articles to the primary papers, but these articles provide a decent overview of the results.
 
 * [The Surprising Psychology of BDSM](https://www.psychologytoday.com/us/blog/the-wide-wide-world-psychology/201502/the-surprising-psychology-bdsm)
 
@@ -19,9 +17,11 @@ Research shows that BDSM practitioners are a surprisingly healthy crowd. Here is
 
 * [Personality Traits of BDSM Practitioners: Another Look](https://www.psychologytoday.com/us/blog/unique-everybody-else/201502/personality-traits-bdsm-practitioners-another-look)
 
+Read the articles and then consider the question of who's a pervert and who's not. Jay Wiseman [Wiseman1996] provided an operational definition of sorts: "a pervert is anybody kinkier than you".
+
 ## Photography
 
-The following galleries are from [www.fortheloveofasub.com](https://www.fortheloveofasub.com). It's a great web site.
+Here is some stylish photography from [www.fortheloveofasub.com](https://www.fortheloveofasub.com). If you the subject matter is arousing or delights you, then perhaps this is something you might enjoy.
 
 *  [Gallery no. 1](https://www.fortheloveofasub.com/new-gallery)
 *  [Gallery no. 2](https://www.fortheloveofasub.com/black-and-white-photo-gallery-2)
