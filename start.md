@@ -7,7 +7,7 @@
 
 ## The Psychology of BDSM
 
-Nothing wrong with you if you like BDSM. Research shows that BDSM practitioners are a surprisingly healthy crowd. Here is selection of readings from [Psychology Today](https://www.psychologytoday.com). You can follow citations in the articles to the primary papers, but these articles provide decent overviews for the layman.
+Nothing wrong with you if you like BDSM. Current research is suggesting that BDSM practitioners may be a surprisingly healthy crowd. If you are interested in sciency things you may be interested in the following readings from [Psychology Today](https://www.psychologytoday.com). You can follow links and citations in the articles back to the primary research papers, as well as critiques of the research.  
 
 * [The Surprising Psychology of BDSM](https://www.psychologytoday.com/us/blog/the-wide-wide-world-psychology/201502/the-surprising-psychology-bdsm)
 
@@ -16,6 +16,8 @@ Nothing wrong with you if you like BDSM. Research shows that BDSM practitioners 
 * [BDSM, Personality and Mental Health](https://www.psychologytoday.com/us/blog/unique-everybody-else/201307/bdsm-personality-and-mental-health)
 
 * [Personality Traits of BDSM Practitioners: Another Look](https://www.psychologytoday.com/us/blog/unique-everybody-else/201502/personality-traits-bdsm-practitioners-another-look)
+
+Another source of current research comes from the lab of
 
 Read the articles and then consider the question of who's a pervert and who's not. Jay Wiseman [Wiseman1996] provided an operational definition of sorts: "a pervert is anybody kinkier than you".
 
