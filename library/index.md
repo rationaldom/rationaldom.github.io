@@ -8,7 +8,7 @@ Reading material is available for loan to my circle of friends. Some of this mat
 1. "Joy of Sex: A gourmet Guide to Lovemaking", Alex Comfort, Simon and Schuster, 1987
 1. "More Joy of Sex: A Lovemaking Companion to The Joy of Sex", Alex Comfort, Simon and Schuster, 19??
 
-### Psychology
+### General Psychology and Issues
 1. "The invisible Road: Parental Insights to Attachment Disorders", Janelle Peterson, Loving Homes, 1995
 1. "I Hate You -- Don't Leave Me: Understanding the Borderline Personality", Jerold J. Kreisman and Hal Straus, TarcherPerigree, 2010
 1. "Adult Children of Alchoholics",  Janet Geringer Woititz, Health Communications Inc., 1983
@@ -25,10 +25,10 @@ Moons Grove Press, 2015
 1. "The New Topping Book",  Dossie Easton and Janet W. Hardy, greenery press, 2003
 
 ### FemDom
-1. "The Mistress Manual : A good girl's guide to female dominance", Mistress Lorelei Powers
-greenery press, 2000
 1. "Miss Abernathy's Concise Slave Training Manual", Christina Abernathy, publisher unknown, 1998
 1. "Training with Miss Abernathy: A workbook for erotic slaves and their owners", Christina Abernathy, greenery press, 1998
+1. "The Mistress Manual : A good girl's guide to female dominance", Mistress Lorelei Powers
+greenery press, 2000
 
 ### Rope and Shibari
 1. "The Directory of Knots", John Shaw, Chartwell Books, Inc., 2003
