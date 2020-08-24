@@ -12,7 +12,7 @@ Reading material is available for loan to my circle of friends. Some of this mat
 1. "The invisible Road: Parental Insights to Attachment Disorders", Janelle Peterson, Loving Homes, 1995
 1. "I Hate You -- Don't Leave Me: Understanding the Borderline Personality", Jerold J. Kreisman and Hal Straus, TarcherPerigree, 2010
 1. "Adult Children of Alchoholics",  Janet Geringer Woititz, Health Communications Inc., 1983
-1. "Loving an adult child of and alcholic", Douglas Bey and Deborah Bey, Rowman and Littlefield Publishing Group, Inc., 2007
+1. "Loving an adult child of an alcholic", Douglas Bey and Deborah Bey, Rowman and Littlefield Publishing Group, Inc., 2007
 1. "The Introvert Advantage: How to Thrive in an Extrovert World", Marti Olsen Laney, Workman Publishing, 2002
 
 ### General BDSM
@@ -20,6 +20,7 @@ Reading material is available for loan to my circle of friends. Some of this mat
 Moons Grove Press, 2015
 1. "Domination and Submission: The BDSM Relationship Handbook", Michael Makai, Self Published?, 2013
 1. "Learning The Ropes: A Basic Guide to Safe And Fun S/M Lovemaking", Race Bannon, Daedalus Publishing Company, 1992
+1. "Mastering the Art of Dominance: 113 Troubleshooting Tips that Turn an Amateur into an Exper Dom", Matthew Larocco, Amazon Digital Services, Kindle Edition, (Publication date unknown)
 1. "The BDSM Contract Book", Michelle Fegatofi, (Self Published), 2015
 1. "The New Bottoming Book", Dossie Easton and Janet W. Hardy, greenery press, 2001
 1. "The New Topping Book",  Dossie Easton and Janet W. Hardy, greenery press, 2003
@@ -31,6 +32,6 @@ Moons Grove Press, 2015
 greenery press, 2000
 
 ### Rope and Shibari
-1. "The Directory of Knots", John Shaw, Chartwell Books, Inc., 2003
 1. "The Restraint of Animals", John R. Leahy and Pat Barrow, Cornell Campus Store Inc., 1953
+1. "The Directory of Knots", John Shaw, Chartwell Books, Inc., 2003
 1. "The Sedutive Art of Japanese Bondage", Midori, greenery press, 2001
