@@ -25,7 +25,10 @@ long length rope > 20ft
 ### Notes on the basic single column tie
 
 Both of these two examples are wrong -- you wind up with a reef knot. It is pretty, but it tends to collapse when the working end is pulled.
+
 [Jerry](https://www.youtube.com/watch?v=T0Y_JYJ6p-8)
+If you look at Jerry's knot you see it has the toplogy of a reef knot (two collars) with one collar around the bight which is heading upwards and the other collar around the working end AND one of the wraps. If you pull hard enough on the working end you see that the knot wants to collapse. It is intrinsic to the knot and not because it is poorly tied.
+
 [Hanawa](https://www.youtube.com/watch?v=4GTfPKRYvhc)
 
 Note that a viewer of Jerry's video remarks that the knot always collapses on him. Jerry says it works for him, and suggests a Summerville Bowline. He should have tied to it wind up with a "Granny knot" -- see discussion in Esinem's video below
