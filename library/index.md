@@ -26,13 +26,13 @@ Moons Grove Press, 2015
 1. "The New Topping Book",  Dossie Easton and Janet W. Hardy, greenery press, 2003
 
 ### FemDom
-1. "Miss Abernathy's Concise Slave Training Manual", Christina Abernathy, (greenery press?), 1998
+1. "Miss Abernathy's Concise Slave Training Manual", Christina Abernathy, (greenery press), 1996
 1. "Training with Miss Abernathy: A workbook for erotic slaves and their owners", Christina Abernathy, greenery press, 1998
 1. "The Mistress Manual : A good girl's guide to female dominance", Mistress Lorelei Powers
 greenery press, 2000
 
 ### Rope and Shibari
-1. "Shibari Safety", [VoudouRopes](https://anastasiamif.wixsite.com/mysite), pdf, reprinted by permission, 2020
+1. "Shibari Safety", [VoudouRopes](https://anastasiamif.wixsite.com/mysite), PDF, reprinted by permission, 2020
 1. "The Restraint of Animals", John R. Leahy and Pat Barrow, Cornell Campus Store Inc., 1953
 1. "The Directory of Knots", John Shaw, Chartwell Books, Inc., 2003
 1. "The Seductive Art of Japanese Bondage", [Midori](http://www.ranshin.com), greenery press, 2001
