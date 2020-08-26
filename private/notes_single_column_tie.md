@@ -1,17 +1,27 @@
 
 # Study of the basic single column
 
-Just in case you think you know the single column tie and I'm going over the top in the depth of my analysis, let me just quote Esinem:
+Just in case you think you know the single column tie and I'm going over-the-top in the depth of my analysis, let me just quote Esinem and Donald Rumsfeld.
 
  "You don't know what you don't know".
 
- OK. Let's get started...
+Here is Rumsfeld saying his famous quote:
 
-## Preliminaries: Reef knot vs Granny knot
+[Rumsfeld press conference](https://www.youtube.com/watch?v=REWeBzGuzCc)
 
- 1.  Square knot (Reef knot)-- Visually you wind up with a pretty knot. It is characterized by two collars with one collar around a bight and one collar around the two standing ends. Both the bight and the free ends exit parallel to the wraps.
+## Preliminaries: Square knot (Reef knot) vs Granny knot
 
- 1. Granny knot -- over/under, no collar and free ends orthogonal to working ends
+ 1.  Square knot (Reef knot)-- Visually you wind up with a pretty knot. It is characterized by two collars with one collar around a bight and one collar around the two standing ends. It looks like this:
+![Square knot](https://cdn0.wideopenspaces.com/wp-content/uploads/2014/10/Square-Knot.jpg)
+
+ 1. Granny knot -- over/under, no collar. It looks like this:
+
+ ![Granny knot](https://mythyng.files.wordpress.com/2012/10/granny-knot_2.jpeg)
+
+ Although the two knots look similar, the Granny knot collapses under tension. Here is the science behind why a square knot is better than a granny knot:
+ [Dr. Shoelace](https://www.youtube.com/watch?v=QSbeIb4riK0)
+
+With those preliminaries out of the way, let's get started!
 
 ## The single column tie: First pass
 
