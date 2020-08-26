@@ -13,8 +13,8 @@
 
 The following two videos produce exactly the same knot. The second one is upside down relative to the first.
 
-1. [Jerry](https://www.youtube.com/watch?v=T0Y_JYJ6p-8)
-1. [Hanawa](https://www.youtube.com/watch?v=4GTfPKRYvhc)
+<p>[Jerry](https://www.youtube.com/watch?v=T0Y_JYJ6p-8)<\p>
+<p>[Hanawa](https://www.youtube.com/watch?v=4GTfPKRYvhc)<\p>
 
 
 The two videos produce a knot with a topology SIMILAR to that of a square knot. To see this, take a close look at the knots after they are tied, and you will see the characteristic "double collar" of the square knot. The knot is symmetrical, flat and pretty. Unfortunately, if you play with the knot you will discover that it has a tendency to collapse or invert when tension is applied to the working ends. The knot does not collapse when tension is applied to the bight. Try it out and see for yourself!
@@ -25,9 +25,10 @@ It turns out that this problem is well known! There is a different way of tying 
 
 ### Further analysis by Esinem and Osaka Dan
 
-Checkout Esinem's video below. This is a thorough analysis of the single column tie and explains how to tie it depending on which direction you want the standing ends to exit the knot.
-[Esimem](https://www.youtube.com/watch?v=XB4pOHGO3wI)
-[Osaka Dan](https://vimeo.com/333974403)
+Checkout Esinem's video below. It is thorough analysis of the single column tie and explains how decide how to tie the knot depending on which direction you want the standing ends to exit the knot. Osaka Dan does something similar, but not quite a clearly presented (in my opinion) as Esinem
+
+<p>[Esinem](https://www.youtube.com/watch?v=XB4pOHGO3wI)</p>
+<p>[Osaka Dan](https://vimeo.com/333974403)</p>
 
 
 ### Fernando's rules:
