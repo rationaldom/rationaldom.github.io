@@ -4,17 +4,19 @@
 ## Preliminaries: Reef knot vs Granny knot
 
  1.  Square knot (Reef knot)-- Visually you wind up with a pretty knot. It is characterized by two collars with one collar around a bight and one collar around the two standing ends. Both the bight and the free ends exit parallel to the wraps.
- 
+
  1. Granny knot -- over/under, no collar and free ends orthogonal to working ends
 
 ## The single column tie: First pass
 
 ### Reference videos
 
+The following two videos produce exactly the same knot. The second one is upside down relative to the first.
+
 [Jerry](https://www.youtube.com/watch?v=T0Y_JYJ6p-8)
+
 [Hanawa](https://www.youtube.com/watch?v=4GTfPKRYvhc)
 
-These two videos produce exactly the same knot. The second one is upside down relative to the first.
 
 The two videos produce a knot with a topology SIMILAR to that of a square knot. To see this, take a close look at the knots after they are tied, and you will see the characteristic "double collar" of the square knot. The knot is symmetrical, flat and pretty. Unfortunately, if you play with the knot you will discover that it has a tendency to collapse or invert when tension is applied to the working ends. The knot does not collapse when tension is applied to the bight. Try it out and see for yourself!
 
