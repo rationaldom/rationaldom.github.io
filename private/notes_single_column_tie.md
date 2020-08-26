@@ -3,18 +3,20 @@
 
 ## Preliminaries: Reef knot vs Granny knot
 
- Square knot (Reef knot)-- Visually you wind up with a pretty knot. It is characterized by two collars with one collar around a bight and one collar around the two standing ends. Both the bight and the free ends exit the
- Granny knot -- over/under, no collar and free ends orthogonal to working ends
+ 1.  Square knot (Reef knot)-- Visually you wind up with a pretty knot. It is characterized by two collars with one collar around a bight and one collar around the two standing ends. Both the bight and the free ends exit parallel to the wraps.
+ 
+ 1. Granny knot -- over/under, no collar and free ends orthogonal to working ends
 
 ## The single column tie: First pass
 
+### Reference videos
 
 [Jerry](https://www.youtube.com/watch?v=T0Y_JYJ6p-8)
 [Hanawa](https://www.youtube.com/watch?v=4GTfPKRYvhc)
 
 These two videos produce exactly the same knot. The second one is upside down relative to the first.
 
-The two videos produce a knot with a topology similar to that of a square knot. To see this, take a close look at the knots after they are tied, and you will see the characteristic "double collar" of the square knot. The knot is symmetrical, flat and pretty. Unfortunately, if you play with the knot you will discover that it has a tendency to collapse or invert when tension is applied to the working ends. The knot does not collapse when tension is applied to the bight. Try it out and see for yourself!
+The two videos produce a knot with a topology SIMILAR to that of a square knot. To see this, take a close look at the knots after they are tied, and you will see the characteristic "double collar" of the square knot. The knot is symmetrical, flat and pretty. Unfortunately, if you play with the knot you will discover that it has a tendency to collapse or invert when tension is applied to the working ends. The knot does not collapse when tension is applied to the bight. Try it out and see for yourself!
 
 Note that in the comments to the first video someone complains that the knot always collapses on him. Jerry says it works for him, and suggests a Summerville Bowline.
 
@@ -29,7 +31,7 @@ Checkout Esinem's video below. This is a thorough analysis of the single column 
 
 ### Fernando's rules:
 
-The study results in the following 'rules' to use for tying basic single column ties.
+The study results in the following 'rules' to use for tying strong basic single column ties.
 
 1. Decide which direction the working end will go when the knot is tied. With a horizontal column the choices are Upwards/downwards and leftwards/rightwards. There are 4 combinations of upwards/downwards and leftwards/rightwards.
 1. Start with the working end going off in the direction that you want it to ultimately go, .e.g leftwards-upwards.
