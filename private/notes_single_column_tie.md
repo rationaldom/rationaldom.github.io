@@ -13,9 +13,8 @@
 
 The following two videos produce exactly the same knot. The second one is upside down relative to the first.
 
-[Jerry](https://www.youtube.com/watch?v=T0Y_JYJ6p-8)
-
-[Hanawa](https://www.youtube.com/watch?v=4GTfPKRYvhc)
+1. [Jerry](https://www.youtube.com/watch?v=T0Y_JYJ6p-8)
+1. [Hanawa](https://www.youtube.com/watch?v=4GTfPKRYvhc)
 
 
 The two videos produce a knot with a topology SIMILAR to that of a square knot. To see this, take a close look at the knots after they are tied, and you will see the characteristic "double collar" of the square knot. The knot is symmetrical, flat and pretty. Unfortunately, if you play with the knot you will discover that it has a tendency to collapse or invert when tension is applied to the working ends. The knot does not collapse when tension is applied to the bight. Try it out and see for yourself!
