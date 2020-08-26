@@ -11,10 +11,12 @@
 
 ### Reference videos
 
-The following two videos produce exactly the same knot. The second one is upside down relative to the first.
+The following two videos produce exactly the same knot.
 
 [Jerry](https://www.youtube.com/watch?v=T0Y_JYJ6p-8)
-<p><\p>
+
+The second one is upside down relative to the first.
+
 [Hanawa](https://www.youtube.com/watch?v=4GTfPKRYvhc)
 
 
@@ -26,10 +28,12 @@ It turns out that this problem is well known! There is a different way of tying 
 
 ### Further analysis by Esinem and Osaka Dan
 
-Checkout Esinem's video below. It is thorough analysis of the single column tie and explains how decide how to tie the knot depending on which direction you want the standing ends to exit the knot. Osaka Dan does something similar, but not quite a clearly presented (in my opinion) as Esinem
+Checkout Esinem's video below. It is thorough analysis of the single column tie and explains how decide how to tie the knot depending on which direction you want the standing ends to exit the knot.
 
 [Esinem](https://www.youtube.com/watch?v=XB4pOHGO3wI)
-<p><\p>
+
+Osaka Dan does something similar, but not quite a clearly presented (in my opinion) as Esinem
+
 [Osaka Dan](https://vimeo.com/333974403)
 
 
