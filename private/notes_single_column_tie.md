@@ -99,4 +99,10 @@ It goes a little quickly, but it appears that the part of the bight that goes un
 
 So he is tying a separate Reef knot above the wraps.
 
-The resulting "true" Reef knot is bigger, bulkier and not nearly as elegant as what we saw above. Note that he makes the statement that the Square knot is better than the Granny knot. This does not contradict Esimem and Osaka Dan's assertions that the Granny knot is superior to the Square knot. In fact, everyone is correct.  The Twisted Monk is tying a true Square knot ABOVE the wraps.  A real Square knot is indeed better than a true Granny knot. The knots that Osaka Dan and Esinem are tying are not true Square or Granny knots. They are SIMILAR.
+The resulting "true" Reef knot is a little bigger, bulkier and not nearly as elegant as what we saw above. Note that he makes the statement at 1:53 "if the knot collapses and the bands tighten up then you tied a Granny knot and you need to re-tie the knot". This does not contradict Esimem and Osaka Dan's assertions that the Granny knot is superior to the Square knot. In fact, everyone is correct.  What has happened is that  Monk is tying a true Square knot ABOVE the wraps.  A true Square knot is indeed better than a true Granny knot. The knots that Osaka Dan and Esinem are tying are not true Square or Granny knots. They are SIMILAR, but not the same. 
+
+### TBD
+
+Then there is this demonstration. I think it's the same as the reef variant. But I haven't tied it and examined it yet.
+[
+Sansa Rope Demo](https://www.youtube.com/watch?v=WqAi7Dj5vrY)
