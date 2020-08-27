@@ -41,10 +41,10 @@ Alright! With those preliminaries out of the way, let's get started!
 The following two videos produce exactly the same knot.
 The second one is upside down relative to the first.
 
-* [Jerry's SCT](https://www.youtube.com/watch?v=T0Y_JYJ6p-8)
-* [Hanawa's SCT](https://www.youtube.com/watch?v=4GTfPKRYvhc)
+* [Jerry's SCT demo](https://www.youtube.com/watch?v=T0Y_JYJ6p-8)
+* [Hanawa's SCT demo](https://www.youtube.com/watch?v=4GTfPKRYvhc)
 
-These two videos produce a knot with a topology SIMILAR to that of a square knot. To see this, follow the instructions in either video and then inspect the resulting knot. You will observe the characteristic "double collar" of the square knot. It is flat, symmetric and pretty. However, it is NOT a Reef knot. To see this, inspect the knot again. You will see that a pair of ropes passes through one of the loops (just like the Reef knot), but TWO pairs of rope pass through the other collar (the extra pair is one of the wraps around the column).
+These two videos produce a knot with a topology SIMILAR to that of a square knot. To see this, follow the instructions in either video and then inspect the resulting knot. You will observe the characteristic "double collar" of the square knot. It is flat, symmetric and pretty. However, it is NOT a Reef knot. To see this, inspect the knot again. You will see that a pair of ropes passes through one of the collars (just like the Reef knot), but TWO pairs of rope pass through the other collar (the extra pair is one of the wraps around the column).
 
 If you play with the knot you will discover that it has a tendency to collapse or invert when tension is applied to the working ends. The knot does not collapse when tension is applied to the bight. Try it out and see for yourself!
 
@@ -58,7 +58,7 @@ Anyway, the 'Granny knot'-like version of the SCT will not collapse or invert wh
 
 Here is a demonstration of how to tie the Granny-knot-like variant of the SCT.
 
-[RopeAndWhips](https://www.youtube.com/watch?v=JCewN1ZVBbc)
+[RopeAndWhips SCT demo](https://www.youtube.com/watch?v=JCewN1ZVBbc)
 
 This is the version of the SCT that I advocate. It is not as fussy as the "square-knot" version. The only reason I might want to tie the square knot version is if I do not intend to apply significant tension on the standing ends or if I want a symmetrical pretty knot. Both versions are equally compact and flat. My sense is that it is probably best to always tie the "granny-knot" version, so that: 1) muscle memory lets you automatically and speedily tie the knot, and 2) you don't accidentally tie the "square-knot" version in a situation where failure of the knot would be dangerous, e.g. suspensions.
 
@@ -86,7 +86,7 @@ After you make your decisions, here are the rules to tie a "Granny-knot" version
 
 1. Start with the working end going off in the direction that you want it to ultimately go, .e.g leftwards-upwards.
 1. Wrap the bight around the column on the same side as you want the working end to exit the knot (left or right)
-1. Form a loop with the working ends going off in the same direction that you want them to ultimately go, and on the interior side of the wraps.
+1. Form a loop with the working ends. Two subtleties: 1) The working parts of the rope should cross the loop on the same side as the bight, i.e. on top of the wraps and 2) Do not reverse the direction of the working ends when you form the loop. If you reverse the direction you will get a Reef-like knot rather than a Granny-like knot.  
 1. Pull the bight through the loop and cinch!
 1. TAH-DAH!
 
@@ -99,7 +99,7 @@ It goes a little quickly, but it appears that the part of the bight that goes un
 
 So he is tying a separate Reef knot above the wraps.
 
-The resulting "true" Reef knot is a little bigger, bulkier and not nearly as elegant as what we saw above. Note that he makes the statement at 1:53 "if the knot collapses and the bands tighten up then you tied a Granny knot and you need to re-tie the knot". This does not contradict Esimem and Osaka Dan's assertions that the Granny knot is superior to the Square knot. In fact, everyone is correct.  What has happened is that  Monk is tying a true Square knot ABOVE the wraps.  A true Square knot is indeed better than a true Granny knot. The knots that Osaka Dan and Esinem are tying are not true Square or Granny knots. They are SIMILAR, but not the same. 
+The resulting "true" Reef knot is a little bigger, bulkier and not nearly as elegant as what we saw above. Note that he makes the statement at 1:53 "if the knot collapses and the bands tighten up then you tied a Granny knot and you need to re-tie the knot". This does not contradict Esimem and Osaka Dan's assertions that the Granny knot is superior to the Square knot. In fact, everyone is correct.  What has happened is that  Monk is tying a true Square knot ABOVE the wraps.  A true Square knot is indeed better than a true Granny knot. The knots that Osaka Dan and Esinem are tying are not true Square or Granny knots. They are SIMILAR, but not the same.
 
 ### TBD
 
