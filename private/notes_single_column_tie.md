@@ -1,9 +1,20 @@
 
 # Study of the basic Single Column Tie
 
-## Preamble
 
-You may think you know the single column tie (SCT). Maybe you do. Maybe you don't. Let me just say that whenever you are trying to learn something, it is essential to understand the distinction between "what you know", "what you don't know", and "what you don't know, you don't know".
+These my lecture notes the single column tie (SCT). They are very detailed and get into the nuances and a little of the science/engineering of the SCT. This is advanced material, not because the tie is difficult or sophisticated, but because of the depth with which the knot is examined.
+
+If you are new or just starting out in Shibari, it is probably more important that you learn and practice just one basic SCT that will handle the majority of your use cases. It will be good enough for non-critical use cases, even though it may not be the best knot for any particular use case.
+
+So, the knot variant you want to learn is demo'd in this video:
+
+[RopeAndWhips SCT demo](https://www.youtube.com/watch?v=JCewN1ZVBbc)
+
+To understand why I recommend this one variant, you have to attend my tutorial or work through the lecture notes.
+
+### Preamble to the lecture notes
+
+Good! You made it this far. You may already have experience with the SCT. You may think you know the SCT. Maybe you do. Maybe you don't. Let me just say that whenever you are trying to learn something, it is essential to understand the distinction between "what you know", "what you don't know", and "what you don't know, you don't know".
 
 If that statement confuses you, here is tight little  explanation of these three categories of knowledge presented at a Pentagon news conference by Donald Rumsfeld (US Secretary of Defense under President George Bush the 1st) .
 
