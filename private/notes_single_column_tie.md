@@ -1,18 +1,19 @@
 
 # Study of the basic Single Column Tie
 
+### Preamble to the lecture notes
 
-These my lecture notes the single column tie (SCT). They are very detailed and get into the nuances and a little of the science/engineering of the SCT. This is advanced material, not because the tie is difficult or sophisticated, but because of the depth with which the knot is examined.
+These lecture notes describe the single column tie (SCT) at a level of detail that may be unnecessary for someone just starting out. This is advanced material. It is advanced, not because the SCT is difficult or sophisticated, but because of the depth with which the SCT is analyzed and described.
 
-If you are new or just starting out in Shibari, it is probably more important that you learn and practice just one basic SCT that will handle the majority of your use cases. It will be good enough for non-critical use cases, even though it may not be the best knot for any particular use case.
+If you are just starting out in Shibari, it is more important to learn and practice just one basic SCT that will handle the majority of your use cases, rather than trying to understand the SCT in depth.
 
-So, the knot variant you want to learn is demo'd in this video:
+One variant of the SCT will be good enough for beginners who are only doing simple floor work involving, e.g. chest harnesses, leg ties, etc. I advocate the variant of the SCT that is demonstrated in the following video:
 
 [RopeAndWhips SCT demo](https://www.youtube.com/watch?v=JCewN1ZVBbc)
 
-To understand why I recommend this one variant, you have to attend my tutorial or work through the lecture notes.
+To understand why I recommend this variant over the others that are demo'd all over the web, you will need to attend my tutorial, or work through these lecture notes.
 
-### Preamble to the lecture notes
+### Introduction
 
 Good! You made it this far. You may already have experience with the SCT. You may think you know the SCT. Maybe you do. Maybe you don't. Let me just say that whenever you are trying to learn something, it is essential to understand the distinction between "what you know", "what you don't know", and "what you don't know, you don't know".
 
@@ -24,7 +25,7 @@ The Shibari expert Esinem makes the same observation in his tutorial on the SCT.
 
 In the following lesson we will do three things:
 
-1. Review the Square knot and the Granny knot because understanding these two knots is how we can understand the SCT.
+1. Review the Square knot and the Granny knot because understanding these two knots is the secret to understanding the basic SCT.
 
 2. View three video demonstrations of how to tie the basic SCT and examine the results. We will analyze the differences between the three ties and understand their performance.
 
@@ -45,7 +46,7 @@ In the following lesson we will do three things:
 
 Alright! With those preliminaries out of the way, let's get started!
 
-## The single column tie: First pass
+## The SCT: First pass
 
 ### Reference videos
 
@@ -75,7 +76,7 @@ This is the version of the SCT that I advocate. It is not as fussy as the "squar
 
 Next we will look at the nuances of which direction to wind the wraps and tie the knot depending on which direction you want the working ends to exit the knot.
 
-### Further analysis by Esinem and Osaka Dan
+### The SCT 2nd pass:  analysis by Esinem and Osaka Dan
 
 Checkout Esinem's video below. It is thorough analysis of the single column tie and explains how decide how to tie the knot depending on which direction you want the standing ends to exit the knot. Osaka Dan performs a similar analysis, but it is not quite a clearly presented (in my opinion) as Esinem
 
@@ -83,9 +84,9 @@ Checkout Esinem's video below. It is thorough analysis of the single column tie 
 * [Esinem](https://www.youtube.com/watch?v=XB4pOHGO3wI)
 * [Osaka Dan](https://vimeo.com/333974403)
 
-### Fernando's rules:
+### The SCT: Fernando's rules
 
-The study results in the following 'rules' to use for tying basic single column ties in any situation. To be concrete let's assume we are tying around a horizontal column.
+Our study results in the following 'rules' for tying basic single column ties in any situation. Just to be concrete, let's assume we are tying around a horizontal column.
 
 1. Decide which direction the working end will go when the knot is tied. In the finished knot do you want the working ends to exit the knot coming at you from the bottom or the top of the column? It doesn't always matter, but sometimes it does, e.g. for Futomomos (leg ties).
 
@@ -101,7 +102,7 @@ After you make your decisions, here are the rules to tie a "Granny-knot" version
 1. Pull the bight through the loop and cinch!
 1. TAH-DAH!
 
-### Twisted Monk's video
+### The SCT: Parting thoughts on Twisted Monk's video
 Finally, take a look at this tutorial from the Twisted Monk.
 
 [Twisted Monk](https://www.youtube.com/watch?v=UhzIQCoLjDc&t=4s)
