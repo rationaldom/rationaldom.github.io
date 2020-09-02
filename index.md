@@ -3,7 +3,7 @@
 ## My Content
 
 * [For the Merely Curious](https://rationaldom.com/start#psychology-of-bdsm)
-* [The Lending Library](https://rationaldom.com/Library/index.html)
+* [The Lending Library](https://rationaldom.com/library/index.html)
 * Shibari
  * [The Single Column Tie in Depth](https://rationaldom.com/private/notes_single_column_tie.html)
 

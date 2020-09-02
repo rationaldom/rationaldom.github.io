@@ -2,12 +2,12 @@
 
 ## What exactly are we talking about here?
 
-* [The Most Common Sexual Fetishes](https://www.allure.com/story/common-sexual-fetishes-kinks)
-
+* [The Most Common Sexual Fetishes -- Alure Magazine](https://www.allure.com/story/common-sexual-fetishes-kinks)
+* [What to know about Shibari Rope Bondage -- Cosmopolitan ](https://www.cosmopolitan.com/uk/love-sex/sex/a12216814/shibari-japanese-bondage/)
 
 ## The Psychology of BDSM
 
-Nothing wrong with you if you like BDSM. Current research is suggesting that BDSM is just another way for healthy adults to play. If you are interested in science then you may be interested in the following readings from [Psychology Today](https://www.psychologytoday.com). Another source of current research comes from the [lab of Dr. Brad Sagarin](http://www.scienceofbdsm.com). In any case, the Psychology Today blog posts provide an excellent start.  
+BDSM gets a bad rap. Current research is suggesting that BDSM is just another way for healthy adults to play. Here are a few readings from [Psychology Today](https://www.psychologytoday.com).
 
 * [The Surprising Psychology of BDSM](https://www.psychologytoday.com/us/blog/the-wide-wide-world-psychology/201502/the-surprising-psychology-bdsm)
 
@@ -17,10 +17,11 @@ Nothing wrong with you if you like BDSM. Current research is suggesting that BDS
 
 * [Personality Traits of BDSM Practitioners: Another Look](https://www.psychologytoday.com/us/blog/unique-everybody-else/201502/personality-traits-bdsm-practitioners-another-look)
 
+Another source of current research comes from the [lab of Dr. Brad Sagarin](http://www.scienceofbdsm.com).  
 
 ## Photography
 
-Here is some stylish photography from [www.fortheloveofasub.com](https://www.fortheloveofasub.com). If you find the subject matter arousing or delightful, then perhaps BDSM is something you might enjoy.
+Here is some stylish photography from [www.fortheloveofasub.com](https://www.fortheloveofasub.com). If you find the subject matter arousing or delightful, then perhaps we should talk.
 
 *  [Gallery no. 1](https://www.fortheloveofasub.com/new-gallery)
 *  [Gallery no. 2](https://www.fortheloveofasub.com/black-and-white-photo-gallery-2)
@@ -31,8 +32,3 @@ Here is some stylish photography from [www.fortheloveofasub.com](https://www.for
 *  [Gallery no. 7](https://www.fortheloveofasub.com/photo-gallery-07)
 *  [Gallery no. 8](https://www.fortheloveofasub.com/photo-gallery-08)
 *  [Gallery no. 9](https://www.fortheloveofasub.com/photo-gallery-09)
-
-
-## References
-
-* [Wiseman1996] *SM 101: A Realistic Introduction*, Jay Wiseman, 1996, p. 23
