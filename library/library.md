@@ -50,4 +50,4 @@ greenery press, 2000
 
 ### Fiction
 1. "The Olympia Reader", Maurice Girodias Ed., Grove Press Inc., 2nd printing 1965
-An absolute classic
+Excerpts from Classic Erotica. e.g. Fanny Hill, Story of O, Justine, My Life and Loves, Candy, Naked Lunch, The Soft Machine, Sexus, Our Lady of the Flowers, etc.
