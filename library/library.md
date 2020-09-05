@@ -43,7 +43,7 @@ Moons Grove Press, 2015
 greenery press, 2000
 1. *Tips and Tricks for KeyHolders: An Addendum to 'a Keyholders Handbook'*, Georgia Ivey Green, Self Published, 2014
 1. *Sex Tips from a Dominatrix*, Patricia Payne, Harper Collins Publishers, 1999
-[Reviews](#sex-tips-from-a-Dominatrix)
+[Reviews](#sex-tips-from-a-Dominatrix-review)
 
 ## Rope and Shibari
 1. "Shibari Safety", [VoudouRopes](https://anastasiamif.wixsite.com/mysite), Lecture notes, reprinted by permission, 2020
@@ -56,9 +56,9 @@ greenery press, 2000
 1. "The Olympia Reader", Maurice Girodias Ed., Grove Press Inc., 2nd printing 1965
 Excerpts from Classic Erotica. e.g. Fanny Hill, Story of O, Justine, My Life and Loves, Candy, Naked Lunch, The Soft Machine, Sexus, Our Lady of the Flowers, etc.
 
-### Reviews
+# Reviews
 
-1. *Sex Tips from a Dominatrix* <a id='sex-tips-from-a-Dominatrix'></a>
+1. *Sex Tips from a Dominatrix* <a id='sex-tips-from-a-Dominatrix-review'></a>
 Reviewed by BadDadditude --
 This ideosyncratic book is virtually unreadable. I could not finish it. The author relentlessly subjects the reader with cutsy turns-of-phrase and puns. These distract from the advice being dispensed - which can be rather idiosyncratic as well.
 
