@@ -43,7 +43,7 @@ Moons Grove Press, 2015
 greenery press, 2000
 1. *Tips and Tricks for KeyHolders: An Addendum to 'a Keyholders Handbook'*, Georgia Ivey Green, Self Published, 2014
 1. *Sex Tips from a Dominatrix*, Patricia Payne, Harper Collins Publishers, 1999
-(Reviews)[#sex-tips-from-a-Dominatrix]
+[Reviews](#sex-tips-from-a-Dominatrix)
 
 ## Rope and Shibari
 1. "Shibari Safety", [VoudouRopes](https://anastasiamif.wixsite.com/mysite), Lecture notes, reprinted by permission, 2020
