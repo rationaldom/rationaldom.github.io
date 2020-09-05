@@ -22,7 +22,7 @@ Eventually we will write brief comments and reviews. Some of the material is ava
 1. "The invisible Road: Parental Insights to Attachment Disorders", Janelle Peterson, Loving Homes, 1995
 
 ## General BDSM
-1. "Different Loving Too: Real People, Real Lives, Real BDSM", Dr. GLoria G. Brame with William D. Brame,
+1. "Different Loving Too: Real People, Real Lives, Real BDSM", Gloria G. Brame with William D. Brame,
 Moons Grove Press, 2015
 1. "Domination and Submission: The BDSM Relationship Handbook", Michael Makai, Self Published?, 2013
 1. "Learning The Ropes: A Basic Guide to Safe And Fun S/M Lovemaking", Race Bannon, Daedalus Publishing Company, 1992
@@ -39,7 +39,7 @@ Moons Grove Press, 2015
 ## FemDom
 1. *Miss Abernathy's Concise Slave Training Manual*, Christina Abernathy, (greenery press), 1996
 1. *Training with Miss Abernathy: A workbook for erotic slaves and their owners*, Christina Abernathy, greenery press, 1998
-1. *The Mistress Manual : A good girl's guide to female dominance*, Mistress Lorelei Powers
+1. *The Mistress Manual : A good girl's guide to female dominance*, Lorelei Powers,
 greenery press, 2000
 1. *Tips and Tricks for KeyHolders: An Addendum to 'a Keyholders Handbook'*, Georgia Ivey Green, Self Published, 2014
 1. *Sex Tips from a Dominatrix*, Patricia Payne, Harper Collins Publishers, 1999
@@ -52,11 +52,16 @@ greenery press, 2000
 1. "The Seductive Art of Japanese Bondage", [Midori](http://www.ranshin.com), greenery press, 2001
 
 ## Fiction
+
 1. "The Olympia Reader", Maurice Girodias Ed., Grove Press Inc., 2nd printing 1965
 Excerpts from Classic Erotica. e.g. Fanny Hill, Story of O, Justine, My Life and Loves, Candy, Naked Lunch, The Soft Machine, Sexus, Our Lady of the Flowers, etc.
 
 ### Reviews
 
-<a id='sex-tips-from-a-Dominatrix'></a>
-1. *Sex Tips from a Dominatrix*
-reviewed by BadDadditude
+1. *Sex Tips from a Dominatrix* <a id='sex-tips-from-a-Dominatrix'></a>
+<p>reviewed by BadDadditude<\p>
+This ideosyncratic book is virtually unreadable. I could not finish it. The author relentlessly subjects the reader with cutsy turns-of-phrase and puns. These distract from the advice being dispensed - which can be rather idiosyncratic as well.
+
+The fourth chapter (On being Knotty) is about rope bondage. Follow the advice in this chapter at your own peril. After advising her readers to exercise extreme caution when putting people into bondage, the author goes on to illustrate the use of hitches (two half hitches and a clove hitch) to fasten wrists and ankles. Hitches  should NEVER be used to fasten limbs to anything. Hitches tighten around limbs when tension is applied. Not even novice riggers would consider using a hitch in place of properly tied single-column tie.
+
+I cannot recommend this book.
