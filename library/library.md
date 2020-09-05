@@ -1,16 +1,18 @@
 # The library.
 
+## About
+
 These are books, articles, reprints,  and notes from the libraries of two like-minded friends (A Dom and a Domme). Most of the books are available new at Amazon, or used from various online sources. Some are hard-to-find gems.  Some of the material is copyrighted material that we printed by permission from the authors.
 
 Eventually we will write brief comments and reviews. Some of the material is available for loan exclusively to our circle of trusted friends. Send inquiries to librarian@rationalDom.com.
 
-### Relationships, Love, and Sex
+## Relationships, Love, and Sex
 
 1. "Love Sense: The Revolutionary New Science of Romantic Relationships", Sue Johnson, Little Brown and Company, 2013
 1. "Joy of Sex: A gourmet Guide to Lovemaking", Alex Comfort, Simon and Schuster, 1987
 1. "More Joy of Sex: A Lovemaking Companion to The Joy of Sex", Alex Comfort, Simon and Schuster, 19??
 
-### General Psychology and Disorders
+## General Psychology and Disorders
 
 1. "Emotional Intelligence", Daniel Goleman, Bantam Books, 1995
 1. "The Introvert Advantage: How to Thrive in an Extrovert World", Marti Olsen Laney, Workman Publishing, 2002
@@ -19,7 +21,7 @@ Eventually we will write brief comments and reviews. Some of the material is ava
 1. "Loving an adult child of an alcholic", Douglas Bey and Deborah Bey, Rowman and Littlefield Publishing Group, Inc., 2007
 1. "The invisible Road: Parental Insights to Attachment Disorders", Janelle Peterson, Loving Homes, 1995
 
-### General BDSM
+## General BDSM
 1. "Different Loving Too: Real People, Real Lives, Real BDSM", Dr. GLoria G. Brame with William D. Brame,
 Moons Grove Press, 2015
 1. "Domination and Submission: The BDSM Relationship Handbook", Michael Makai, Self Published?, 2013
@@ -34,20 +36,27 @@ Moons Grove Press, 2015
 1. "The New Bottoming Book", Dossie Easton and Janet W. Hardy, greenery press, 2001
 1. "The New Topping Book",  Dossie Easton and Janet W. Hardy, greenery press, 2003
 
-### FemDom
-1. "Miss Abernathy's Concise Slave Training Manual", Christina Abernathy, (greenery press), 1996
-1. "Training with Miss Abernathy: A workbook for erotic slaves and their owners", Christina Abernathy, greenery press, 1998
-1. "The Mistress Manual : A good girl's guide to female dominance", Mistress Lorelei Powers
+## FemDom
+1. *Miss Abernathy's Concise Slave Training Manual*, Christina Abernathy, (greenery press), 1996
+1. *Training with Miss Abernathy: A workbook for erotic slaves and their owners*, Christina Abernathy, greenery press, 1998
+1. *The Mistress Manual : A good girl's guide to female dominance*, Mistress Lorelei Powers
 greenery press, 2000
-1. "Tips and Tricks for KeyHolders: An Addendum to 'a Keyholders Handbook'", Georgia Ivey Green, Self Published, 2014
-1. "Sex Tips from a Dominatrix", Patricia Payne, Harper Collins Publishers, 1999
+1. *Tips and Tricks for KeyHolders: An Addendum to 'a Keyholders Handbook'*, Georgia Ivey Green, Self Published, 2014
+1. *Sex Tips from a Dominatrix*, Patricia Payne, Harper Collins Publishers, 1999
+(Reviews)[#sex-tips-from-a-Dominatrix]
 
-### Rope and Shibari
+## Rope and Shibari
 1. "Shibari Safety", [VoudouRopes](https://anastasiamif.wixsite.com/mysite), Lecture notes, reprinted by permission, 2020
 1. "The Restraint of Animals", John R. Leahy and Pat Barrow, Cornell Campus Store Inc., 1953
 1. "The Directory of Knots", John Shaw, Chartwell Books, Inc., 2003
 1. "The Seductive Art of Japanese Bondage", [Midori](http://www.ranshin.com), greenery press, 2001
 
-### Fiction
+## Fiction
 1. "The Olympia Reader", Maurice Girodias Ed., Grove Press Inc., 2nd printing 1965
 Excerpts from Classic Erotica. e.g. Fanny Hill, Story of O, Justine, My Life and Loves, Candy, Naked Lunch, The Soft Machine, Sexus, Our Lady of the Flowers, etc.
+
+### Reviews
+
+<a id='sex-tips-from-a-Dominatrix'></a>
+1. *Sex Tips from a Dominatrix*
+reviewed by BadDadditude
