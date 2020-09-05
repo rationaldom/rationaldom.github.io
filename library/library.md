@@ -62,6 +62,6 @@ Excerpts from Classic Erotica. e.g. Fanny Hill, Story of O, Justine, My Life and
 Reviewed by BadDadditude --
 This ideosyncratic book is virtually unreadable. I could not finish it. The author relentlessly subjects the reader with cutsy turns-of-phrase and puns. These distract from the advice being dispensed - which can be rather idiosyncratic as well.
 
-The fourth chapter (On being Knotty) is about rope bondage. Follow the advice in this chapter at your own peril. After advising her readers to exercise extreme caution when putting people into bondage, the author goes on to illustrate the use of hitches (two half hitches and a clove hitch) to fasten wrists and ankles. Hitches  should NEVER be used to fasten limbs to anything. Hitches tighten around limbs when tension is applied. Not even novice riggers would consider using a hitch in place of properly tied single-column tie.
+This reviewer was particularly put-off by the fourth chapter (On being Knotty) which is about rope bondage. Beware -- the content is dangerous. After advising her readers to exercise extreme caution when putting people into bondage, the author goes on to illustrate the use of hitches (two half hitches and a clove hitch) to fasten wrists and ankles. Hitches should NEVER be used to fasten limbs to anything. Hitches tighten around limbs under tension, e.g. if the submissive is struggling. Not even novice riggers would consider using a hitch in place of properly tied single-column tie.
 
 I cannot recommend this book.
