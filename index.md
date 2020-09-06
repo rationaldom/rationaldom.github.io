@@ -3,7 +3,7 @@
 ## My Content
 
 * Starters
-  * [For the Merely Curious](https:/rationaldom.com/start#psychology-of-bdsm)
+  * [For the Merely Curious](https:/rationaldom.com/start)
 
 
 * Writings: Lecture Notes and self-serving reflections on my suspect lifestyle
