@@ -3,7 +3,7 @@
 ## My Content
 
 * Starters
-  * [For the Merely Curious](https:/rationaldom.com/start.html)
+  * [For the Merely Curious](https://rationaldom.com/start.html)
 
 
 * Writings: Lecture Notes and self-serving reflections on my suspect lifestyle
