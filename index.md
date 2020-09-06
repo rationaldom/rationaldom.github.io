@@ -1,15 +1,20 @@
 # A site for the misguided, the curious, and the doomed
 
 ## My Content
+
 * Starters
- * [For the Merely Curious](https:/rationaldom.com/start#psychology-of-bdsm)
+  * [For the Merely Curious](https:/rationaldom.com/start#psychology-of-bdsm)
+
+
 * Writings: Lecture Notes and self-serving reflections on my suspect lifestyle
   * [The Single Column Tie in Depth](https://rationaldom.com/private/notes_single_column_tie.html)
   * [How to Buy Happiness](https://rationaldaddy.com/2016/09/03/how-to-buy-happiness/)
   * [Why Men Matter](https://rationaldaddy.com/2016/12/13/why-men-matter/)
-  
+
+
 * Books and other material from the collections of two like-minded friends
     * [The Library](https://rationaldom.com/library/library.html)
+
 
 ## My Social Media
 
@@ -22,4 +27,3 @@
 * [Midori](http://www.ranshin.com)
 * [Savannah Knoop](https://www.savannahknoop.net)
 * [Voudou.Ropes](https://anastasiamif.wixsite.com/mysite)
-* [For the love of a sub](https://www.fortheloveofasub.com)
