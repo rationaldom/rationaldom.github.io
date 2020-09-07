@@ -7,7 +7,7 @@
 
 
 * Writings: Lecture Notes and self-serving reflections on my suspect lifestyle
-  * [The Single Column Tie in Depth](https://rationaldom.com/private/notes_single_column_tie.html)
+  * [The Single Column Tie in Depth](https://rationaldom.com/private/notes_sct.html)
   * [How to Buy Happiness](https://rationaldaddy.com/2016/09/03/how-to-buy-happiness/)
   * [Why Men Matter](https://rationaldaddy.com/2016/12/13/why-men-matter/)
 

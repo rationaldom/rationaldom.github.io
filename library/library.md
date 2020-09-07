@@ -58,6 +58,28 @@ Excerpts from Classic Erotica. e.g. Fanny Hill, Story of O, Justine, My Life and
 
 # Reviews
 
+## General bdsm
+
+1. "Different Loving Too: Real People, Real Lives, Real BDSM"
+
+1. "Domination and Submission: The BDSM Relationship Handbook"
+1. "Learning The Ropes"
+1. "Dom's Guide To BDSM Vol. 2"
+1. "Dom's Guide To BDSM Vol. 3"
+1. "Dom's Guide To Submissive Training Vo. 1"
+1. "Dom's Guide To Submissive Training Vol. 2"
+1. "Dom's Guide To Submissive Training Vol. 3"
+1. "Mastering the Art of Dominance: 113 Troubleshooting Tips that Turn an Amateur into an Expert Dom"
+1. "The BDSM Contract Book"
+1. "The New Bottoming Book"
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=rationaldom-20&marketplace=amazon&region=US&placement=B00N4FJL30&asins=B00N4FJL30&linkId=ca2419d8eae4b4c2ecf686455243959a&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+1. "The New Topping Book"
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=rationaldom-20&marketplace=amazon&region=US&placement=B01N1XPRJO&asins=B01N1XPRJO&linkId=f73f180550fbf1b2a33f546bd04f71d7&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+## FemDom
+
 1. *Sex Tips from a Dominatrix* <a id='sex-tips-from-a-Dominatrix-review'></a>
 Reviewed by BadDadditude --
 This ideosyncratic book is virtually unreadable. I could not finish it. The author relentlessly subjects the reader with cutsy turns-of-phrase and puns. These distract from the advice being dispensed - which can be rather idiosyncratic as well.
