@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Starters
 
 ## What exactly are we talking about here?
