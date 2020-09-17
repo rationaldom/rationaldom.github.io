@@ -11,7 +11,7 @@ layout: default
 
 ## The Psychology of BDSM
 
-BDSM gets a bad rap. Current research is suggesting that BDSM is just another way for healthy adults to play. Here are a few readings from [Psychology Today](https://www.psychologytoday.com).
+BDSM gets a bad rap. Current research suggests that BDSM is just another way for healthy adults to play. Here are a few readings from [Psychology Today](https://www.psychologytoday.com).
 
 * [The Surprising Psychology of BDSM](https://www.psychologytoday.com/us/blog/the-wide-wide-world-psychology/201502/the-surprising-psychology-bdsm)
 

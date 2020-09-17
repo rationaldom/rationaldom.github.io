@@ -1,4 +1,8 @@
-# The library.
+---
+layout: default
+---
+
+<h2>The library</h2>
 
 ## About
 
