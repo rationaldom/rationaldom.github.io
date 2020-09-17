@@ -2,10 +2,9 @@
 layout: default
 ---
 
-<h1>Welcome to the RationalDom</h1>
-<p>Self-serving reflections on a suspect a lifestyle</p>
+# Welcome to the RationalDom #
 
-# A site for the misguided, the curious, and the doomed
+<p>A site for the misguided, the curious, and the doomed. Consisting mostly of Self-serving reflections on a suspect a lifestyle</p>
 
 ## My Content
 
