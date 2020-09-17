@@ -4,11 +4,9 @@ layout: default
 
 # The library #
 
-## About
-
 These are books, articles, reprints,  and notes from the libraries of two like-minded friends (A Dom and a Domme). Most of the books are available new at Amazon, or used from various online sources. Some are hard-to-find gems.  Some of the material is copyrighted material that we printed by permission from the authors.
 
-Eventually we will write brief comments and reviews. Some of the material is available for loan exclusively to our circle of trusted friends. Send inquiries to librarian@rationalDom.com.
+Eventually we will write brief comments and reviews. Some of the material is available for loan exclusively to our circle of trusted friends.
 
 ## Relationships, Love, and Sex
 
