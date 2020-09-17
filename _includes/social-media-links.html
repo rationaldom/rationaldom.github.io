@@ -1,0 +1,24 @@
+<!--
+
+From: https://jreel.github.io/social-media-icons-on-jekyll/
+
+This code first checks to see if we have a data file called
+social-media. If so, we assign it to the shorter variable sm,
+and loop through each entry. We capture the first part of each
+entry (the key) and use that to reference each bit of our
+social media data. For each key with an id value defined in
+the data file, Jekyll will render the link and the icon.
+
+-->
+
+{% if site.data.social-media %}
+<div id="social-media">
+    {% assign sm = site.data.social-media %}
+    {% for entry in sm %}
+        {% assign key = entry | first %}
+        {% if sm[key].id %}
+            <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fa {{ sm[key].fa-icon }}"></i></a>
+        {% endif %}
+    {% endfor %}
+</div>
+{% endif %}
