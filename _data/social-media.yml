@@ -1,17 +1,17 @@
 email:
-  id: 'badDadditude@rationalDome.com'
+  id: 'badDadditude@rationalDom.com'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-envelope-square'
+  fa-icon: 'fa-envelope'
 
 github:
   id: 'rationalDom'
-  href: 'https://github.com/'
+  href: 'https://www.github.com/'
   title: 'GitHub'
-  fa-icon: 'fa-github-square'
+  fa-icon: 'fa-github'
 
   github:
     id: 'badDadditude'
-    href: 'https://instagram.com/'
-    title: 'GitHub'
+    href: 'https://www.instagram.com/'
+    title: 'Instagram'
     fa-icon: 'fa-instagram'
