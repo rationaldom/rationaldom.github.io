@@ -6,7 +6,6 @@ layout: default
 
 <p>A site for the misguided, the curious, and the doomed.</p>
 
-
 ## My Content
 
 * Starters
