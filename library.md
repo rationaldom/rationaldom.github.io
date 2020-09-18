@@ -41,7 +41,7 @@ Moons Grove Press, 2015
 1. *The Mistress Manual : A good girl's guide to female dominance*, Lorelei Powers,
 greenery press, 2000
 1. *Tips and Tricks for KeyHolders: An Addendum to 'a Keyholders Handbook'*, Georgia Ivey Green, Self Published, 2014
-1. *Sex Tips from a Dominatrix*, Patricia Payne, Harper Collins Publishers, 1999
+1. *Sex Tips from a Dominatrix*, Patricia Payne, Harper Collins Publishers, 1999 <a id='sex-tips-from-a-Dominatrix'>
 [Reviews](#sex-tips-from-a-Dominatrix-review)
 
 ## Rope and Shibari
@@ -57,21 +57,6 @@ Excerpts from Classic Erotica. e.g. Fanny Hill, Story of O, Justine, My Life and
 
 # Reviews
 
-## General bdsm
 
-1. "Different Loving Too: Real People, Real Lives, Real BDSM"
-1. "Domination and Submission: The BDSM Relationship Handbook"
-1. "Learning The Ropes"
-1. "Dom's Guide To BDSM Vol. 2"
-1. "Dom's Guide To BDSM Vol. 3"
-1. "Dom's Guide To Submissive Training Vo. 1"
-1. "Dom's Guide To Submissive Training Vol. 2"
-1. "Dom's Guide To Submissive Training Vol. 3"
-1. "Mastering the Art of Dominance: 113 Troubleshooting Tips that Turn an Amateur into an Expert Dom"
-1. "The BDSM Contract Book"
-1. "The New Bottoming Book"
-
-## FemDom
-
-1. *Sex Tips from a Dominatrix* <a id='sex-tips-from-a-Dominatrix-review'></a>
+1. [Sex tips from a Dominatrix](#sex-tips-from-a-Dominatrix) <a id='sex-tips-from-a-Dominatrix-review'></a>
     * Review by BadDadditude -- This ideosyncratic book is virtually unreadable. I could not finish it. The author relentlessly subjects the reader with cutsy turns-of-phrase, puns and downright bad English usage, e.g. "do diligence" should be "Due diligence". These distract from the advice being dispensed - which can be rather idiosyncratic as well. This reviewer was particularly put-off by the fourth chapter (On being Knotty) which is about rope bondage. Beware -- the content is dangerous. After advising her readers to exercise extreme caution when putting people into bondage, the author goes on to illustrate the use of hitches (two half hitches and a clove hitch) to fasten wrists and ankles. Hitches should NEVER be used to fasten limbs to anything. Hitches tighten around limbs under tension, e.g. if the submissive is struggling. Not even novice riggers would consider using a hitch in place of properly tied single-column tie. I cannot recommend this book.
