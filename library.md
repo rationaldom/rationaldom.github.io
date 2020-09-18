@@ -4,9 +4,9 @@ layout: default
 
 # The library #
 
-These are books, articles, reprints,  and notes from the libraries of two like-minded friends (A Dom and a Domme). Most of the books are available new at Amazon, or used from various online sources. Some are hard-to-find gems.  Some of the material is copyrighted material that we printed by permission from the authors.
-
-Eventually we will write brief comments and reviews. Some of the material is available for loan exclusively to our circle of trusted friends.
+<p>These are books, articles, reprints,  and notes from the libraries of two like-minded friends. Most of the books are available new at Amazon, or used from various online sources. Some are hard-to-find gems.  Some of the material is copyrighted material that we printed by permission from the authors.
+</p>
+<p>Eventually we will write brief comments and reviews. Some of the material is available for loan exclusively to our circle of trusted friends.</p>
 
 ## Relationships, Love, and Sex
 
@@ -48,7 +48,7 @@ greenery press, 2000
 [Reviews](#sex-tips-from-a-Dominatrix-review)
 
 ## Rope and Shibari
-1. "Shibari Safety", [VoudouRopes](https://anastasiamif.wixsite.com/mysite), Lecture notes, reprinted by permission, 2020
+1. "Shibari Safety", [VoudouRopes](https://voudouRopes.com), Lecture notes, reprinted by permission, 2020
 1. "The Restraint of Animals", John R. Leahy and Pat Barrow, Cornell Campus Store Inc., 1953
 1. "The Directory of Knots", John Shaw, Chartwell Books, Inc., 2003
 1. "The Seductive Art of Japanese Bondage", [Midori](http://www.ranshin.com), greenery press, 2001
