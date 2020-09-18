@@ -20,7 +20,7 @@ layout: default
     * [The Library](https://rationaldom.com/library)
 
 ## Favorite web sites and people
-* [Midori](http://www.ranshin.com)
-* [Savannah Knoop](https://www.savannahknoop.net)
-* [Voudou.Ropes](https://voudouropes.com)
-* [A Rebours: Notes of an Aging Roué](http://notesofaroue.blogspot.com)
+    * [Midori](http://www.ranshin.com)
+    * [Savannah Knoop](https://www.savannahknoop.net)
+    * [Voudou.Ropes](https://voudouropes.com)
+    * [A Rebours: Notes of an Aging Roué](http://notesofaroue.blogspot.com)
