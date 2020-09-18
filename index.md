@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to the RationalDom #
 
-<p>A site for the misguided, the curious, and the doomed. Consisting mostly of Self-serving reflections on a suspect lifestyle</p>
+<p>A site for the misguided, the curious, and the doomed. </p>
 
 ## My Content
 
