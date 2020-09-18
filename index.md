@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to the RationalDom #
 
-<p>A site for the misguided, the curious, and the doomed. </p>
+<p>A site for the misguided, the curious, and the doomed.</p>
 
 ## My Content
 
@@ -12,8 +12,7 @@ layout: default
   * [For the Merely Curious](https://rationaldom.com/start)
 
 * Writings
-    Lecture Notes, Observations, and self-serving reflections on a suspect lifestyle
-  * [The Single Column Tie in Depth](https://rationaldom.com/private/notes_sct.html)
+    Observations, commentaries and self-serving reflections on a suspect lifestyle
   * [How to Buy Happiness](https://rationaldaddy.com/2016/09/03/how-to-buy-happiness/)
   * [Why Men Matter](https://rationaldaddy.com/2016/12/13/why-men-matter/)
 
