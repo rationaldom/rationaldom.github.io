@@ -19,7 +19,7 @@ layout: default
 * Books and other material from the collections of two like-minded friends
     * [The Library](https://rationaldom.com/library)
 
-## Favorite web sites and people
+* Favorite web sites and people
     * [Midori](http://www.ranshin.com)
     * [Savannah Knoop](https://www.savannahknoop.net)
     * [Voudou.Ropes](https://voudouropes.com)
