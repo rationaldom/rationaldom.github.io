@@ -3,10 +3,7 @@ layout: default
 ---
 
 # The library #
-
-<p>These are books, articles, reprints,  and notes from the libraries of two like-minded friends. Most of the books are available new at Amazon, or used from various online sources. Some are hard-to-find gems.  Some of the material is copyrighted material that we printed by permission from the authors.
-</p>
-<p>Eventually we will write brief comments and reviews. Some of the material is available for loan exclusively to our circle of trusted friends.</p>
+<p>One of the first things I check out when I visit someone's home for the first time is their books. A bookcase full of books is usually a good sign that we're going to get along. If there's an actual library, I know I'm with my people! So here's the site library. Feel free to peruse. These are books, articles, reprints,  and notes from the libraries of two like-minded friends. Most of the books are available new or used from various online sources. Others are hard-to-find gems. Some of the books are available for loan to our circle of trusted friends. Eventually we'll write comments and reviews.</p>
 
 ## Relationships, Love, and Sex
 
@@ -77,4 +74,4 @@ Excerpts from Classic Erotica. e.g. Fanny Hill, Story of O, Justine, My Life and
 ## FemDom
 
 1. *Sex Tips from a Dominatrix* <a id='sex-tips-from-a-Dominatrix-review'></a>
-Reviewed by BadDadditude -- This ideosyncratic book is virtually unreadable. I could not finish it. The author relentlessly subjects the reader with cutsy turns-of-phrase and puns. These distract from the advice being dispensed - which can be rather idiosyncratic as well. This reviewer was particularly put-off by the fourth chapter (On being Knotty) which is about rope bondage. Beware -- the content is dangerous. After advising her readers to exercise extreme caution when putting people into bondage, the author goes on to illustrate the use of hitches (two half hitches and a clove hitch) to fasten wrists and ankles. Hitches should NEVER be used to fasten limbs to anything. Hitches tighten around limbs under tension, e.g. if the submissive is struggling. Not even novice riggers would consider using a hitch in place of properly tied single-column tie. I cannot recommend this book.
+    * Review by BadDadditude -- This ideosyncratic book is virtually unreadable. I could not finish it. The author relentlessly subjects the reader with cutsy turns-of-phrase, puns and downright bad English usage, e.g. "do diligence" should be "Due diligence". These distract from the advice being dispensed - which can be rather idiosyncratic as well. This reviewer was particularly put-off by the fourth chapter (On being Knotty) which is about rope bondage. Beware -- the content is dangerous. After advising her readers to exercise extreme caution when putting people into bondage, the author goes on to illustrate the use of hitches (two half hitches and a clove hitch) to fasten wrists and ankles. Hitches should NEVER be used to fasten limbs to anything. Hitches tighten around limbs under tension, e.g. if the submissive is struggling. Not even novice riggers would consider using a hitch in place of properly tied single-column tie. I cannot recommend this book.
