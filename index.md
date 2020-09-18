@@ -12,7 +12,8 @@ layout: default
 * Starters
   * [For the Merely Curious](https://rationaldom.com/start)
 
-* Writings: Lecture Notes and self-serving reflections on my suspect lifestyle
+* Writings
+    Lecture Notes, Observations, and self-serving reflections on a suspect lifestyle
   * [The Single Column Tie in Depth](https://rationaldom.com/private/notes_sct.html)
   * [How to Buy Happiness](https://rationaldaddy.com/2016/09/03/how-to-buy-happiness/)
   * [Why Men Matter](https://rationaldaddy.com/2016/12/13/why-men-matter/)
@@ -22,8 +23,9 @@ layout: default
     * [The Library](https://rationaldom.com/library)
 
 
-## Favorite Blogs, Web Sites, Performance Artists, and Educators
+## Favorite web sites and people
 
 * [Midori](http://www.ranshin.com)
 * [Savannah Knoop](https://www.savannahknoop.net)
-* [Voudou.Ropes](https://anastasiamif.wixsite.com/mysite)
+* [Vuoduo.Ropes](https://voudouropes.com)
+* [A Rebours: Notes of an Aging Roué](http://notesofaroue.blogspot.com)
