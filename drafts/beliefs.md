@@ -1,8 +1,8 @@
 
 
-#Beliefs#
+# Beliefs
 
-##Where I'm coming from##
+## Where I'm coming from
 
 I came to D/s late in life and truth be told, my experience is still somewhat limited, but thus far it has been satisfying, intuitive and natural. I'm not going to talk here about the usual stuff. Kinks, implements etc. Instead I'm going to talk about the notion of what it means (to me) to be the mentor in a D/s or M/s dynamic.
 
@@ -18,7 +18,7 @@ In academia we don't train our students to be more deferential or to focus on th
 
 In my brief time interacting with the BDSM community, I have come to ask, can't serious mentoring be part of a Dom's/Master's interaction with their sub/slave?  I have heard lip-service paid to this idea, but from what I've seen, most Doms or Masters don't actually have much to offer their subs/slaves beyond sexual and psychological fulfillment. For some, perhaps for most, this may be enough. After all most D-types are average humans and most s-types are average humans. But for some of us, this is not enough and we seek to pay more than lip-service to the notion that we are true mentors to our subs or slaves.  All this brings me to what I believe is my role as a Dominant.
 
-##What I believe##
+##What I believe
 
 I believe that when I take a sub/slave under my wing, it is my responsibility to provide not just emotional and sexual rewards, but also mentorship, structure and a real education grounded in my unique professional experiences in science, technology, business, sports and art. I see my role as a Dominant and would-be Master as a natural extension of my role as a University Professor. I want to create a mix of pleasure and emotional/psychological games that enrich the educational experience in a manner that is not socially acceptable in more conventional educational settings. It is of course a bit of an experiment. But for me life is, at it's best, one big experiment!  
 
